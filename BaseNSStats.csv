@@ -1,0 +1,126 @@
+lastYear,2016
+lastMonth,2016-02
+lastDay,2016-02-20
+lastTimestamp,201602200330
+networks,46
+series,2445
+hours,275647.24388889
+metafiles,355338
+ocrfiles,344734
+tptfiles,32660
+videofiles,355155
+metawords,2249693095
+ocrwords,758646624
+tptwords,386821784
+totalGigs,100386
+totalPlaces,14317336
+uniquePlaces,81118
+totalYearRecs,2004,219
+totalYearRecs,2005,3488
+totalYearRecs,2006,9283
+totalYearRecs,2007,26469
+totalYearRecs,2008,30397
+totalYearRecs,2009,29226
+totalYearRecs,2010,30235
+totalYearRecs,2011,33374
+totalYearRecs,2012,40530
+totalYearRecs,2013,43659
+totalYearRecs,2014,42408
+totalYearRecs,2015,49569
+totalYearRecs,2016,6869
+netStartYear,CNN,2006
+netStartYear,HBO,2008
+netStartYear,KABC,2005
+netStartYear,KCBS,2005
+netStartYear,KNBC,2005
+netStartYear,MSNBC,2006
+netStartYear,"24h (Spain)",2012
+netStartYear,"Al Jazeera (Qatar)",2013
+netStartYear,"BBC Persian",2010
+netStartYear,"Political Ads",2006
+netStartYear,"CNN International",2012
+netStartYear,"HLN/Headline News",2010
+netStartYear,C-SPAN,2006
+netStartYear,C-SPAN2,2007
+netStartYear,"ČT1 (Czech Republic)",2016
+netStartYear,"Comedy Central",2006
+netStartYear,"truTV/Court TV",2011
+netStartYear,"TVP1 (Poland)",2016
+netStartYear,"Current TV",2011
+netStartYear,"Digital Ephemera",2007
+netStartYear,"DR1 (Denmark)",2012
+netStartYear,"Fox News",2006
+netStartYear,Globo,2016
+netStartYear,Record,2016
+netStartYear,"KCAL (independent)",2005
+netStartYear,"KCET (independent)",2005
+netStartYear,"KMEX (Univision)",2007
+netStartYear,"KOCE (PBS)",2011
+netStartYear,"KTLA (CW)",2006
+netStartYear,"KTTV (Fox)",2005
+netStartYear,"La 1 (Spain)",2012
+netStartYear,"NRK1 (Norway)",2006
+netStartYear,"SVT1 (Sweden)",2012
+netStartYear,"SVT2 (Sweden)",2012
+netStartYear,"Tolo (Afghanistan)",2013
+netStartYear,"TV 2 (Norway)",2011
+netStartYear,"TV5 (French)",2011
+netStartYear,"WEWS (ABC)",2013
+netStartYear,"WKYC (NBC)",2012
+netStartYear,"WOIO (CBS)",2012
+netStartYear,"WUAB (MyNetworkTV)",2012
+netStartYear,"Web (various)",2004
+netStartYear,"Das Erste (Germany)",2014
+netStartYear,"France 2",2015
+netStartYear,"France 3",2015
+netStartYear,"RT America",2015
+netStartYear,"RTP1 (Portugal)",2015
+netStartYear,"SIC (Portuguese)",2015
+netStartYear,"Tagesschau24 (Germany)",2016
+netStartYear,"TVC (Russia)",2016
+netStartYear,"ZDF (Germany)",2014
+networkRecs,"24h (Spain)",1497
+networkRecs,"Al Jazeera (Qatar)",7414
+networkRecs,"BBC Persian",4721
+networkRecs,"Political Ads",17541
+networkRecs,CNN,45474
+networkRecs,"CNN International",78
+networkRecs,"HLN/Headline News",9002
+networkRecs,C-SPAN,2917
+networkRecs,C-SPAN2,554
+networkRecs,"Comedy Central",4413
+networkRecs,"truTV/Court TV",125
+networkRecs,"Current TV",802
+networkRecs,"Digital Ephemera",1834
+networkRecs,"DR1 (Denmark)",1318
+networkRecs,"Fox News",28380
+networkRecs,HBO,105
+networkRecs,KABC,38681
+networkRecs,"KCAL (independent)",8431
+networkRecs,KCBS,32744
+networkRecs,"KCET (independent)",18146
+networkRecs,"KMEX (Univision)",12746
+networkRecs,KNBC,41730
+networkRecs,"KOCE (PBS)",4769
+networkRecs,"KTLA (CW)",3279
+networkRecs,"KTTV (Fox)",8666
+networkRecs,"La 1 (Spain)",3462
+networkRecs,MSNBC,19927
+networkRecs,"NRK1 (Norway)",4865
+networkRecs,"SVT1 (Sweden)",1508
+networkRecs,"SVT2 (Sweden)",60
+networkRecs,"Tolo (Afghanistan)",5137
+networkRecs,"TV 2 (Norway)",153
+networkRecs,"TV5 (French)",11149
+networkRecs,"WEWS (ABC)",1092
+networkRecs,"WKYC (NBC)",1744
+networkRecs,"WOIO (CBS)",1159
+networkRecs,"WUAB (MyNetworkTV)",537
+networkRecs,"Web (various)",4226
+networkRecs,"Das Erste (Germany)",326
+networkRecs,"France 2",2009
+networkRecs,"France 3",270
+networkRecs,"RTP1 (Portugal)",88
+networkRecs,"SIC (Portuguese)",74
+networkRecs,"Tagesschau24 (Germany)",40
+networkRecs,"ZDF (Germany)",719
